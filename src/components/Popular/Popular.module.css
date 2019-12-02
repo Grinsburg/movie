@@ -1,0 +1,13 @@
+.row{
+  padding: 10px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border: 1px solid black;
+}
+
+h2{
+  font-weight: bold;
+  text-align: center;
+}
