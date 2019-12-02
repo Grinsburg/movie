@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Search(){
+function MovieItem(){
   return (
     <div>
       
@@ -8,4 +8,4 @@ function Search(){
   );
 }
 
-export default Search;
+export default MovieItem;
